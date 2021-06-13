@@ -1,0 +1,105 @@
+h1{
+   background-color: darkgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 50%;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.console p{
+
+     border: 2px solid gray;
+     padding: 10px;
+     text-align: justify;
+
+}
+.bio img{
+     width: 30%;
+     display:block;
+     margin: 20px;
+     display: inline-flex;
+     
+}
+
+#keri p {
+            background-color:burlywood;
+            text-align: center;
+            font-weight: bold;
+            padding: 20px;
+ 
+}
+.flut{
+
+       border: 3px solid black;
+       border-radius: 20px;
+       margin:100px 500px; 
+       padding: 10px;
+       background-color: red;
+       color: white;
+    
+}
+
+.auto{
+
+    background-color: red;
+    margin: 20px 400px;
+    width: 30%;
+}
+
+.blog{
+        border: 2px solid black;
+        width: 30%;
+        margin: 5px 5px;
+        padding: 10px;
+        border-radius: 15px;
+        background-color: cadetblue;
+}
+.blog h2{
+ 
+    text-align: center;
+    color: crimson;
+}
+
+.nev{
+
+    border: 2px solid black;
+    width: 30%;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: cadetblue;
+
+
+}
+
+.nev h2{
+ 
+    text-align: center;
+    color: crimson;
+}
+
+.nevi{
+
+    border: 2px solid black;
+    width: 30%;
+    margin: 5px 5px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: cadetblue;
+   
+
+}
+ .nevi h2{
+
+             
+    text-align: center;
+    color: crimson;
+
+ }
+
+ #habu{
+
+    display: flex;
+ }
+
